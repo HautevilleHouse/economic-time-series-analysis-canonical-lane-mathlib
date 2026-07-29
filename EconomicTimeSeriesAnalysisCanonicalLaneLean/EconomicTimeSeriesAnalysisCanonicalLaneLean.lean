@@ -1,0 +1,16 @@
+import EconomicTimeSeriesAnalysisCanonicalLaneLean.MacroeconomicFoundation
+import EconomicTimeSeriesAnalysisCanonicalLaneLean.AssetPricing
+import EconomicTimeSeriesAnalysisCanonicalLaneLean.GrowthModel
+import EconomicTimeSeriesAnalysisCanonicalLaneLean.Equilibrium
+import EconomicTimeSeriesAnalysisCanonicalLaneLean.TimeSeriesEconometrics
+import EconomicTimeSeriesAnalysisCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace EconomicTimeSeriesAnalysisCanonicalLaneLean
+
+-- Root module for the package
+
+def packageVersion : String := "1.0.0"
+
+end EconomicTimeSeriesAnalysisCanonicalLaneLean
+end HautevilleHouse
